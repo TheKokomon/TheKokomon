@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/Khocomon.png" width="180" alt="Kokomon" />
+  <img src="assets/Khocomon.png" width="180" alt="Picture of me, Kokomon" title="Oh look! It's me!" />
 </p>
 
 <p align="center">
