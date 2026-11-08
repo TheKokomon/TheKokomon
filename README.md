@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://digimon.net/cimages/digimon/kokomon.jpg" width="180" alt="Kokomon" />
+  <img src="assets/Khocomon.png" width="180" alt="Kokomon" />
 </p>
 
 <p align="center">
