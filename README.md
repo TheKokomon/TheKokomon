@@ -41,7 +41,7 @@ Oh! And I have a very special twin named **Gummymon**! We're really close, and I
 
 ## ⚔️ My Special Attack!
 
-### 🫧 Double Bubble!
+### Double Bubble!
 
 Don't let my cute appearance fool you!
 
@@ -94,7 +94,7 @@ If you've seen me before, thank you for remembering me! It makes me really happy
 
 ## 💻 Why Did I Make This Repository?
 
-Well... I wanted a little place of my own on the Internet!
+Well... I wanted a little place of my own on the Internet! *(And I need it for work)*
 
 Here, I can share information about myself, my adventures, my friends, and the wonderful Digital World.
 
